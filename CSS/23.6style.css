@@ -1,0 +1,43 @@
+#container{
+    height:400px;
+    width:80%px;
+    border:2px solid black;
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    /* flex-wrap: wrap;
+    */
+   
+    }
+#viloet{
+    background-color:violet;
+}
+#indigo{
+    background-color: indigo;
+}
+#blue{
+    background-color: blue;
+    /* flex-basis:50px; */
+    /* flex-grow:2; */
+    flex-shrink:2;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+    /* flex-grow:1; */
+    flex-shrink:3;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.style{
+    height:300px;
+    width:300px;
+    font-size:15px;
+
+}

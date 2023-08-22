@@ -1,0 +1,34 @@
+h1{
+    background-color: yellowgreen;
+    border:2px solid black;
+}
+@media(width:400px){
+    h1{
+        background-color: brown;
+        color:aliceblue;
+    }
+}
+/* @media(min-width:400px)
+{
+    h1{
+        background-color: blueviolet;
+    }
+}
+@media(max-width:400px)
+{
+    h1{
+        background-color: chocolate;
+    } */
+}
+@media(min-width:200px)and(max-width:300px)
+{
+    h1{
+        background-color: darkgreen;
+    }
+}
+@media(orientation:landscape)
+{
+    h1{
+        background-color: gold;
+    }
+}

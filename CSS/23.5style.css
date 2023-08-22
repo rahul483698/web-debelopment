@@ -1,0 +1,41 @@
+#container{
+    height:400px;
+    width:80%px;
+    border:2px solid black;
+    text-align:center;
+    display:flex;
+     /* flex-wrap: wrap; */
+    align-content: flex-start;
+   
+   
+    }
+#viloet{
+    background-color:violet;
+}
+#indigo{
+    background-color: indigo;
+}
+#blue{
+    background-color: blue;
+    align-self:flex-end;
+    /* align-self individual item per work karta hai
+    ex-align-self:flex-start,flex-end,center,baseline; */
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.style{
+    height:100px;
+    width:300px;
+    font-size:15px;
+
+}

@@ -1,0 +1,17 @@
+div{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    margin:15px;
+
+    background-color: rgba(255, 0, 0, 1);
+}
+/*opacity me baground color ke sath sath text ka color bhi halka ya dark hota hai*/
+#lower{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    background-color: rgba(0,255,0,0.7);
+    opacity: 0.5;
+
+}

@@ -1,0 +1,15 @@
+#outer{
+    height:400px;
+    width:400px;
+    background-color: aqua;
+    font-size:30px;
+
+}
+#inner{
+    height:100px;
+    width:100px;
+    background-color: green;
+    font-size:2em;
+    padding:1em;
+
+}

@@ -1,0 +1,39 @@
+#container{
+    height:400px;
+    width:80%px;
+    border:2px solid black;
+    text-align:center;
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-start;
+
+   flex-wrap:wrap/*no wrap,wrap-reverse*/;
+   /* wrap-reverse cross axis ke along*/
+    }
+#viloet{
+    background-color:violet;
+}
+#indigo{
+    background-color: indigo;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.style{
+    height:100px;
+    width:200px;
+    font-size:15px;
+
+}

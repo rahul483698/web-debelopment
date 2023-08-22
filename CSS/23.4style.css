@@ -1,0 +1,42 @@
+#container{
+    height:400px;
+    width:80%px;
+    border:2px solid black;
+    text-align:center;
+    display:flex;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    /* cross axix ke along align-content kam karta hai */
+    /* flex-start,flex-end,center,space-between,around,evenly
+    align-content:baseline;
+ */
+
+   
+    }
+#viloet{
+    background-color:violet;
+}
+#indigo{
+    background-color: indigo;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.style{
+    height:100px;
+    width:300px;
+    font-size:15px;
+
+}

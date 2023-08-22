@@ -1,0 +1,19 @@
+h1{
+    font-weight:bold;
+    text-decoration:blue underline;
+}
+p{
+    font-weight:700;
+}
+h2{
+    font-weight:bold;
+    text-decoration:blue line-through;
+}
+h3{
+    font-weight:bold;
+    text-decoration: purple dotted underline;
+}
+h4{
+    text-decoration: green wavy underline;
+}
+

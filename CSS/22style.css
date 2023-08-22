@@ -1,0 +1,40 @@
+#outer{
+    height:200px;
+    width:200px;
+    background-color: yellow;
+    border:2px solid black;
+    border-radius:50%;
+}
+#inner1{
+    height:25px;
+    width:100px;
+    background-color: red;
+    border:1px solid black;
+    border-radius:0 0 50px 50px;
+    position:absolute;
+    top:160px;
+    left:60px;
+}
+#inner2{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border:1px solid black;
+    border-radius:50%;
+    position:absolute;
+    top:50px;
+    left:50px;
+
+}
+#inner3{
+    height:30px;
+    width:30px;
+    background-color: black;
+    border:1px solid black;
+    border-radius:50%;
+    position:absolute;
+    top:50px;
+    left:150px;
+
+
+}

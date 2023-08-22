@@ -1,0 +1,41 @@
+#container{
+    height:400px;
+    width:80%;
+    border:2px solid black;
+    text-align:center;
+    display:flex;
+    flex-direction: row;
+    align-items:baseline/*flex-start,flex-end,center*/;
+    
+    }
+#viloet{
+    background-color:violet;
+    height:100px;
+    font-size:35px;
+}
+#indigo{
+    background-color: indigo;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+    height:20px;
+    font-size:10px;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.style{
+    height:50px;
+    width:200px;
+    font-size:20px;
+
+}
